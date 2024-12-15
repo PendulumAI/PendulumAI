@@ -42,7 +42,7 @@ Pendulum's AI ingests and preprocesses diverse datasets:
 
 • User Queries: Real-time inputs from Pendulum users.
 
-![Pendulum Image](https://github.com/PendulumAI/Pendulum/blob/main/pendulum_figure.png "Pendulum Icon")
+![Pendulum Image](https://github.com/PendulumAI/PendulumAI/blob/main/pendulum_figure.png "Pendulum Icon")
 
 <br>
 <br>
